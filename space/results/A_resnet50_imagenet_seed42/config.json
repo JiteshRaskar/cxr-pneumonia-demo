@@ -1,0 +1,15 @@
+{
+  "source": "A",
+  "arch": "resnet50",
+  "norm": "imagenet",
+  "seed": 42,
+  "size": 224,
+  "pretrained": true,
+  "epochs_run": 5,
+  "lr": 0.0001,
+  "batch_size": 32,
+  "class_weights": [
+    1.95748449955713,
+    0.6715284108173807
+  ]
+}

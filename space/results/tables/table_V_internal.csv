@@ -1,0 +1,5 @@
+source,arch,norm,accuracy,precision,recall,specificity,f1,roc_auc
+A,densenet121,imagenet,0.889,0.851,0.997,0.709,0.919,0.972
+A,resnet50,imagenet,0.883,0.844,0.997,0.692,0.914,0.973
+C,densenet121,imagenet,0.846,0.759,0.779,0.879,0.768,0.907
+C,resnet50,imagenet,0.804,0.655,0.854,0.779,0.741,0.897
